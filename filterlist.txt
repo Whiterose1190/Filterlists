@@ -50,4 +50,6 @@ https://o0.pages.dev/mini/domains.txt
 https://block.energized.pro/mirror/280blocker_domain_ag.txt
 https://filters.adtidy.org/extension/chromium/filters/6.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+https://filters.adtidy.org/extension/chromium/filters/12.txt
+https://easylist-downloads.adblockplus.org/easylistgermany.txt
 
