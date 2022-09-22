@@ -47,7 +47,7 @@ https://o0.pages.dev/mini/domains.txt
 https://block.energized.pro/ultimate/formats/hosts.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylist.txt
 https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easyprivacy.txt
-https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/easylistgermany.txt
+https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/language/german.txt
 https://media.githubusercontent.com/media/maxwai/pihole_ad_lists/master/werbung.txt
 https://media.githubusercontent.com/media/maxwai/pihole_ad_lists/master/default.txt
 https://raw.githubusercontent.com/Luois45/DNSBlocklists/auto-update/list.pihole
