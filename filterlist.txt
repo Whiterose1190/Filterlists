@@ -51,3 +51,4 @@ https://raw.githubusercontent.com/0Zinc/easylists-for-pihole/master/language/ger
 https://media.githubusercontent.com/media/maxwai/pihole_ad_lists/master/werbung.txt
 https://media.githubusercontent.com/media/maxwai/pihole_ad_lists/master/default.txt
 https://raw.githubusercontent.com/Luois45/DNSBlocklists/auto-update/list.pihole
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
